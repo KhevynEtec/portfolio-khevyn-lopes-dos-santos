@@ -52,6 +52,8 @@ Atualmente cursando o 1° período de Ciência da Computação na Universidade C
 | **Engenharia de Contexto e Lógica Física** | Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.| [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/)
 | :--- | :--- | :---: |
  **Desenhando Emojis com Dados** | Manipulando listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji| [Ver Projeto](./projeto-desenhando-emojis-com-dados/)
+ | :--- | :--- | :---: |
+ **Sistema de Auditoria** | ferramenta em Python que automatiza o cálculo de orçamentos em estruturas corporativas complexas.| [Ver Projeto](./projeto_sistema_de_auditoria/)
 
 ---
  
