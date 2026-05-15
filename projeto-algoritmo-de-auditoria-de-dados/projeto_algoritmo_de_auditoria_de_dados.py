@@ -23,7 +23,7 @@ if (venda1 > media * 5) or (venda2 > media * 5) or (venda3 > media * 5):
 
     resposta = input("Essa venda é legítima? (s/n): ")
 
-    if resposta.lower() == "s":
+    if resposta.lower() == "s": #teste letra minuscula
         LimiteAltera = float(input("Digite um novo limite: "))
 
         if LimiteAltera < media:
