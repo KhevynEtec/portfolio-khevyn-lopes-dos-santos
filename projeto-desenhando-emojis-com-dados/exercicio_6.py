@@ -99,11 +99,11 @@ for lista in biblioteca_musical["Toques"]:
 
 
 
-    for i in range(len(matriz[0])): # percorre colunas
+    for i in range(len(matriz[0])):
 
       nova_linha = []
 
-      for j in range(len(matriz)): # percorre linhas
+      for j in range(len(matriz)):
 
         nova_linha.append(matriz[j][i])
 
