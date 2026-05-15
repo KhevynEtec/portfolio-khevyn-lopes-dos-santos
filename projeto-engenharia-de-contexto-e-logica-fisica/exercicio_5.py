@@ -21,8 +21,8 @@ def analisar_dados():
   ]
 
 
-
-  for local in dados_locais: # 1º for
+# 1º for
+  for local in dados_locais:
 
     nome = local[0]
 
