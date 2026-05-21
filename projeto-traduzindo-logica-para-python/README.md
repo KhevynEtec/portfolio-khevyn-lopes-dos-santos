@@ -1,31 +1,24 @@
-#🐍 Algoritmos de Lógica e Processamento de Dados (Atividade 4)
+# 🛡️ Sistema de Auditoria de Vendas
 
-##📝 Descrição do Projeto
+## 📝 Descrição do Projeto
+Este projeto consiste em um script de auditoria de segurança focado na análise de transações de vendas. O objetivo principal é monitorar entradas financeiras e sinalizar valores atípicos que possam indicar erros de digitação ou fraudes, colocando o sistema em estado de quarentena preventivo.
 
-Este repositório contém a implementação em Python de quatro funções complexas originalmente descritas em pseudocódigo. O projeto foi desenvolvido para exercitar a conversão de lógica estruturada para código executável, focando no uso correto de tipagem dinâmica, estruturas de repetição e controle de fluxo condicional.
+Desenvolvido como um notebook interativo, o algoritmo processa três entradas de vendas simultâneas, calculando sua média e comparando os resultados contra um limite de segurança pré-definido. Caso a média geral ou alguma venda individual ultrapasse o teto permitido, o sistema solicita uma revisão manual ao usuário, permitindo o reajuste dinâmico do limite para operações futuras.
 
-As funções implementadas resolvem problemas práticos de diferentes domínios:
+## 🚀 Tecnologias Utilizadas
+* **Linguagem:** Python 3
+* **Ambiente:** Jupyter Notebook, Google Colab
+* **Conceitos:** Escopo de Variáveis (Global), Estruturas de Decisão Condicional e Tipagem Dinâmica
 
-Processamento de Vendas: Cálculo de subtotais com aplicação de descontos progressivos (5% e 10%) e validação de entradas.
-Análise Climática: Monitoramento de temperaturas semanais com geração de alertas para condições extremas (acima de 45°C ou abaixo de -5°C).
-Gestão Acadêmica: Sistema para cálculo de médias e classificação de alunos em Aprovado, Recuperação ou Reprovado.
-Simulador Financeiro: Projeção de crescimento de investimentos com aportes mensais e juros compostos.
-#🚀 Tecnologias Utilizadas
-Linguagem: Python 3.10+
-Paradigma: Programação Estruturada e Funcional
-Ferramentas: VS Code / Terminal Python
-#📊 Resultados e Aprendizados
-
-A conversão dos algoritmos permitiu consolidar conhecimentos fundamentais sobre o comportamento da linguagem Python:
-
-Manipulação de Tipos: Aprofundamento no uso de float() e int() para converter as entradas da função input(), que por padrão retorna strings.
-Lógica de Repetição: Adaptação da função range() para replicar laços "PARA" tradicionais, compreendendo que o limite superior no Python é exclusivo (ex: range(1, meses + 1)).
-Modularização: Organização de códigos complexos em funções independentes para facilitar a leitura e manutenção.
-🔧 Como Executar
-Certifique-se de ter o Python instalado em sua máquina.
-
-Clone este repositório:
-
-git clone https://github.com/KhevynEtec/atividade-logica-python.git
----
+## 📊 Funcionalidades e Aprendizados
+O projeto implementa uma lógica simples e eficaz de controle de risco para ambientes transacionais.
+* **Sistema de Quarentena:** Validação automática que alerta "SISTEMA EM QUARENTENA" se a média das vendas atingir ou superar o limite de segurança inicial de 10.000.00.
+* **Revisão Manual e Escalonamento:** Caso uma venda isolada ultrapasse o teto, o sistema aguarda a confirmação humana de legitimidade (s/n). Se a venda for confirmada como legítima ("s"), o limite de segurança da aplicação é multiplicado por 10.
+* **Análise de Tipagem:** O código inspeciona e imprime os tipos de dados ao final da execução, confirmando o tratamento dos valores transacionais e da média como `<class 'float'>`.
+* 
+## 🔧 Como Executar 
+1. Certifique-se de ter o Python instalado em sua máquina.
+2. 2. Clone este repositório:
+bash
+   git clone [https://github.com/KhevynEtec/traduzindo-logica-para-python.git](https://github.com/KhevynEtec/atividade-logica-python.git)
 [Voltar ao início](https://github.com/KhevynEtec/portfolio-khevyn-lopes-dos-santos)
