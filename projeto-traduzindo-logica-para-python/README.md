@@ -1,6 +1,6 @@
-🐍 Algoritmos de Lógica e Processamento de Dados (Atividade 4)
+#🐍 Algoritmos de Lógica e Processamento de Dados (Atividade 4)
 
-📝 Descrição do Projeto
+##📝 Descrição do Projeto
 
 Este repositório contém a implementação em Python de quatro funções complexas originalmente descritas em pseudocódigo. O projeto foi desenvolvido para exercitar a conversão de lógica estruturada para código executável, focando no uso correto de tipagem dinâmica, estruturas de repetição e controle de fluxo condicional.
 
@@ -10,11 +10,11 @@ Processamento de Vendas: Cálculo de subtotais com aplicação de descontos prog
 Análise Climática: Monitoramento de temperaturas semanais com geração de alertas para condições extremas (acima de 45°C ou abaixo de -5°C).
 Gestão Acadêmica: Sistema para cálculo de médias e classificação de alunos em Aprovado, Recuperação ou Reprovado.
 Simulador Financeiro: Projeção de crescimento de investimentos com aportes mensais e juros compostos.
-🚀 Tecnologias Utilizadas
+#🚀 Tecnologias Utilizadas
 Linguagem: Python 3.10+
 Paradigma: Programação Estruturada e Funcional
 Ferramentas: VS Code / Terminal Python
-📊 Resultados e Aprendizados
+#📊 Resultados e Aprendizados
 
 A conversão dos algoritmos permitiu consolidar conhecimentos fundamentais sobre o comportamento da linguagem Python:
 
