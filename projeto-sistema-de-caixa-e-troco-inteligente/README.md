@@ -29,4 +29,12 @@ Ao processar uma compra de **R$ 57,00** com um pagamento de **R$ 100,00**:
 3. Execute o comando: `python main.py`.
 
 ---
+## 👤 Autor
+ 
+* **Khevyn Lopes dos Santos** * LinkedIn: https://br.linkedin.com/in/khevynlopesdossantos
+* E-mail: khevyn.lopes@gmail.com
+ 
+---
+*Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
+
 [Voltar ao início](https://github.com/KhevynEtec/portfolio-khevyn-lopes-dos-santos)
