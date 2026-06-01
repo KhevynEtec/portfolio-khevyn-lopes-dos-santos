@@ -23,8 +23,9 @@ O sistema opera baseado em fluxos lógicos de validação:
 3. Execute o script principal:
    ```bash
    python main.py
-
-   ## 👤 Autor
+   
+---
+## 👤 Autor
  
 * **Khevyn Lopes dos Santos** * LinkedIn: https://br.linkedin.com/in/khevynlopesdossantos
 * E-mail: khevyn.lopes@gmail.com
