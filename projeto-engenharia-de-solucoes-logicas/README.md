@@ -1,9 +1,9 @@
 # 📊 Sistema de Triagem e Validação de Dados (Fluxograma e Pseudocódigo)
 
 ## 📝 Descrição do Projeto
-Este projeto apresenta a modelagem lógica de um sistema de triagem e validação de dados, estruturado através de diagramas de fluxo e representações em pseudocódigo[cite: 2, 19]. [cite_start]O objetivo principal é estabelecer um pipeline de decisão que valide entradas de usuários e aplique filtros baseados em parâmetros técnicos e demográficos[cite: 3, 23].
+Este projeto apresenta a modelagem lógica de um sistema de triagem e validação de dados, estruturado através de diagramas de fluxo e representações em pseudocódigo. fO objetivo principal é estabelecer um pipeline de decisão que valide entradas de usuários e aplique filtros baseados em parâmetros técnicos e demográficos.
 
-Desenvolvido como parte do meu portfólio técnico, o sistema processa variáveis específicas para direcionar o fluxo de atendimento ou processamento de dados[cite: 5, 22]. [cite_start]A lógica abrange desde a validação inicial do dado até a finalização do processo (FIM), garantindo que cada etapa siga critérios rigorosos de decisão[cite: 3, 17].
+Desenvolvido como parte do meu portfólio técnico, o sistema processa variáveis específicas para direcionar o fluxo de atendimento ou processamento de dados. A lógica abrange desde a validação inicial do dado até a finalização do processo (FIM), garantindo que cada etapa siga critérios rigorosos de decisão.
 
 ![Fluxograma do Sistema]
 *Figura 1: Representação visual da lógica de decisão e caminhos do sistema dentro da pasta em arquivo pdf*
