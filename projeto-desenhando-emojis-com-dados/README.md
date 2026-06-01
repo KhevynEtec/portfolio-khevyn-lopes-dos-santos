@@ -29,4 +29,12 @@ O desenvolvimento destes algoritmos proporcionou o domínio técnico sobre:
    ```bash
    python exercicio_6.py
 ---
+## 👤 Autor
+ 
+* **Khevyn Lopes dos Santos** * LinkedIn: https://br.linkedin.com/in/khevynlopesdossantos
+* E-mail: khevyn.lopes@gmail.com
+ 
+---
+*Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
+
 [Voltar ao início](https://github.com/KhevynEtec/portfolio-khevyn-lopes-dos-santos)
