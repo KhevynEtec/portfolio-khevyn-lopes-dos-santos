@@ -18,8 +18,6 @@ O projeto implementa uma lógica simples e eficaz de controle de risco para ambi
 * 
 ## 🔧 Como Executar 
 1. Certifique-se de ter o Python instalado em sua máquina.
-2. 2. Clone este repositório:
-bash
-   git clone [https://github.com/KhevynEtec/traduzindo-logica-para-python.git](https://github.com/KhevynEtec/atividade-logica-python.git)
+2. Clone este repositório: bash git clone [https://github.com/KhevynEtec/traduzindo-logica-para-python.git](https://github.com/KhevynEtec/atividade-logica-python.git)
 
 [Voltar ao início](https://github.com/KhevynEtec/portfolio-khevyn-lopes-dos-santos)
