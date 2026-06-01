@@ -31,5 +31,5 @@ O sistema opera baseado em fluxos lógicos de validação:
 * E-mail: khevyn.lopes@gmail.com
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
----
+
 [Voltar ao início](https://github.com/KhevynEtec/portfolio-khevyn-lopes-dos-santos)
