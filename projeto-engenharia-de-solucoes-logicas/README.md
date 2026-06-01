@@ -38,4 +38,5 @@ O projeto demonstra a eficácia na organização de fluxos complexos, tratando d
  
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
+
 [Voltar ao portfólio](https://github.com/KhevynEtec/portifolio-khevyn-lopes-dos-santos)
