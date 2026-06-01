@@ -31,4 +31,11 @@ O projeto demonstra a eficácia na organização de fluxos complexos, tratando d
 3. Verifique as tabelas de dados para entender as entradas aceitas pelo sistema.
 
 ---
+## 👤 Autor
+ 
+* **Khevyn Lopes dos Santos** * LinkedIn: https://br.linkedin.com/in/khevynlopesdossantos
+* E-mail: khevyn.lopes@gmail.com
+ 
+---
+*Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
 [Voltar ao portfólio](https://github.com/KhevynEtec/portifolio-khevyn-lopes-dos-santos)
