@@ -27,4 +27,12 @@ O projeto demonstrou a eficácia da decomposição de problemas complexos em ins
    ```bash
    python exercicio_5.py
 ---
+## 👤 Autor
+ 
+* **Khevyn Lopes dos Santos** * LinkedIn: https://br.linkedin.com/in/khevynlopesdossantos
+* E-mail: khevyn.lopes@gmail.com
+ 
+---
+*Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
+
 [Voltar ao início](https://github.com/KhevynEtec/portfolio-khevyn-lopes-dos-santos)
